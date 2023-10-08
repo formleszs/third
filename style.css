@@ -5,20 +5,20 @@
 }
 
 a{
-  color: #7a9cd2;
+  color: #1f3fce;
   cursor: pointer;
   text-decoration: none;
 }
 
 body{
-  background-color: #364561;
+  background-color: #34c59c;
 }
 
 .head{
   font-family: Georgia, sans-serif;
   width:100%;
   height: 100px;
-  background-color: #7a9cd2;
+  background-color: #0c8a66;
   padding: 10px;
   margin: 0 auto; 
 }
@@ -45,7 +45,7 @@ nav {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  background-color:#bbcbe4;
+  background-color:#e0e0bf;
   margin-bottom: 10px;
   margin-top: 10px;
   padding:10px;
@@ -69,7 +69,7 @@ nav a {
 }
 
 .submenu_link{
-  background-color: #7a9cd2;
+  background-color: #0c8a66;
   color: #000000;
   padding: 16px;
   border-radius: 10px;
@@ -83,7 +83,7 @@ nav a {
 .submenu{
   display: none;
   position: absolute;
-  background-color: #bbcbe4;
+  background-color: #e0e0bf;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -97,7 +97,7 @@ nav a {
 }
 
 .submenu a:hover{
-  background-color: #7a9cd2;
+  background-color: #0c8a66;
 }
 
 .topmenu:hover .submenu{display: block;}
@@ -114,7 +114,7 @@ nav a {
   margin: 0 auto;
   padding:10px;
   width: 100%;
-  background-color: #bbcbe4;
+  background-color: #e0e0bf;
   border-radius: 10px;
 }
 
@@ -145,7 +145,7 @@ nav a {
 
 .table{
   font-family: 'Courier New', Courier, monospace;
-  background-color:#bbcbe4;
+  background-color:#e0e0bf;
   max-width: 960px;
   margin: 0 auto;
   padding:10px;
@@ -177,7 +177,7 @@ td {
   padding: 10px 15px;
 }
 tr:nth-child(2n) {
-  background: #7a9cd2;
+  background: #70573d;
 }
 
 form{
@@ -190,7 +190,7 @@ form{
   margin:20px;
   padding:10px;
   max-width: 960px;
-  background-color:#bbcbe4;
+  background-color:#e0e0bf;
   margin: 0 auto;
   margin-top:20px;
   padding:10px;
@@ -198,16 +198,16 @@ form{
 
 form input{
   padding: 12px 20px;
-  background-color:#7a9cd2;
+  background-color:#70573d;
 
 }
 
 form textarea{
-  background-color:#7a9cd2;
+  background-color:#70573d;
 }
 
 form option{
-  background-color:#7a9cd2;
+  background-color:#70573d;
 }
 
 form input:focus {
@@ -218,7 +218,7 @@ form input:focus {
 
 .footer{
   font-family: 'Courier New', Courier, monospace;
-  background-color:#7a9cd2; 
+  background-color:#0c8a66; 
   margin: 0 auto; 
   margin-top:20px; 
   padding:10px;
