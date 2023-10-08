@@ -246,6 +246,7 @@ form input:focus {
 
   .hyper_links{
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     width: 100%;
   }
