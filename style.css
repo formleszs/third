@@ -5,19 +5,19 @@
 }
 
 a{
-  cursor: pointer;
   color: #1f3fce;
+  cursor: pointer;
   text-decoration: none;
 }
 body{
   background-color: #34c59c
 }
 .head{
-   font-family: Georgia, sans-serif;
-   width:100%;
-   background-color: #0c8a66;
-   padding: 10px;
-   height:100px;
+  font-family: Georgia, sans-serif;
+  width:100%;
+  height:100px;
+  background-color: #0c8a66;
+  padding: 10px;
   margin: 0 auto;
  }
 .logo{
@@ -27,7 +27,8 @@ body{
   border-radius: 50%;
   }
 .text{
-  margin: 30px; padding-left: 100px;;
+  margin: 30px;
+  padding-left: 100px;
 }
 
 nav{
@@ -102,12 +103,12 @@ nav a {
 
 
 .hyper_links{
-  border-radius: 10px;
   max-width:960px;
-  width: 100%;
-  background-color:#e0e0bf;
   margin: 0 auto;
   padding:10px;
+  width: 100%;
+  background-color:#e0e0bf;
+  border-radius: 10px;
 }
 
 .hyper_links_body{
